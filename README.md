@@ -1,4 +1,4 @@
-# Force Sensitive Resistors for 4-Panel Dance Game Pads
+# Force Sensitive Resistors for 5-Panel Dance Game Pads
 ## Table of Contents
 - [Force Sensitive Resistors for 4-Panel Dance Game Pads](#force-sensitive-resistors-for-4-panel-dance-game-pads)
   - [Table of Contents](#table-of-contents)
@@ -9,6 +9,7 @@
   - [Credits](#credits)
 
 ## Introduction
+**Note: This is designed for five-panel dance game pads ONLY! For four-panel dance game pads, [please go to vlnguyen's repository instead!](https://github.com/vlnguyen/itg-fsr)**
 A Force Sensitive Resistor (FSR) is a resistor that changes its resistive value depending on how much pressure is applied to its surface. They can be used to handle controller inputs on a dance game controller such as one for Dance Dance Revolution (DDR), In The Groove (ITG), or Stepmania.
 <p align="center">
     <img src="img/IMG_4103.jpg" height="225px" />
@@ -49,4 +50,5 @@ Setting up FSRs for gameplay with an app to adjust the sensitivities happens in 
 
 ## Credits
 - Thank you [teejusb](https://github.com/teejusb)! He contributed what I used as a base for the hardware code. It was super easy understand and extend for my own use. ([teejusb/fsr](https://github.com/teejusb/fsr))
+- Thank you [vlnguyen](https://github.com/vlnguyen) for allowing me to fork this project!
   
